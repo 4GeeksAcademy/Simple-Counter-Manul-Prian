@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.body {
+    margin: 0;
+  
+}
+.container {
+    text-align: center;
+    background-color: #0D1117;
+    align-items: center;
+}
+.container div {
+    display: inline-block;
+    font-size: 40px;
+    line-height: 60px;
+    background-color: #0D1117;
+    color: white;
+    padding: 10px;
+    
+
+}
