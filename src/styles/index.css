@@ -10,9 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-.body {
-    margin: 0;
-  
+
+div.texto {
+    text-align: center;
 }
 .container {
     text-align: center;
@@ -26,6 +26,5 @@
     background-color: #0D1117;
     color: white;
     padding: 10px;
-    
 
 }
